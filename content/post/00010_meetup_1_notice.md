@@ -1,5 +1,5 @@
 ---
-title: "Объявление о первом митапе"
+title: "Объявление о митапе «Киптовалюты и блокчейн. Просто»"
 date: 2017-10-24T20:00:00+03:00
 ThumbnailImage: //res.cloudinary.com/bchain-institute/image/upload/v1523394521/notice_1.png
 thumbnailImagePosition: right

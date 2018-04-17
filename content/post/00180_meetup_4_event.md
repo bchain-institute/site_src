@@ -3,9 +3,11 @@ title: "Смотр ярославских блокчейн-стартапов"
 date: 2017-12-21T13:32:14+03:00
 ThumbnailImage: //i.imgur.com/HrKG6Lzb.jpg
 thumbnailImagePosition: right
-
 coverImage: //i.imgur.com/HrKG6Lz.jpg
-
+tags:
+- rubus
+- bitcoin cash
+- ЯрГУ
 categories:
 - митап
 - фото
